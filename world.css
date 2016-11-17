@@ -1,0 +1,20 @@
+body{
+    background-color: #9a71e1;
+    width: 400px;
+}
+
+#controls{
+    background-color: #9a71e1;
+    margin: 30px;
+    padding: 30px;
+}
+
+#result{
+    background-color: #d3bff5;
+}
+h1{
+    font-family: sans-serif; 
+   color: #9a71e1;
+   padding: 20px;
+   background-color: #fff;
+}
